@@ -64,3 +64,4 @@ Contibutors are updated each release, pulled from Github API. See `CONTRIBUTORS.
 
 I develop this package in my spare time, with a busy family/work life like many of you! So, I would like to thank everyone who's helped me out from submitting PRs, to assisting on issues, and plain using the package (I hope its useful). Cheers.
 
+Test
